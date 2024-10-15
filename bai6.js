@@ -9,7 +9,7 @@ let arr = [
 
 // Hàm nhóm các phần tử theo thuộc tính brand
 function groupByBrand(arr) {
-    let grouped = {};
+    let grouped;
     
     // Duyệt qua từng phần tử và nhóm theo brand
     arr.forEach(item => {

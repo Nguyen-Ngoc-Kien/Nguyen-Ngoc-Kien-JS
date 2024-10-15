@@ -22,7 +22,7 @@ function isEmail(s){
     }
 }
 
-isEmail("ngngockien2002@gmail.com")
+isEmail("ngngockien2002@fpt.edu.vn")
 isEmail("ngngockien2002@gmail.")
 isEmail("@ngngockien2002gmail.")
 isEmail("ngngockien2002gmail")
